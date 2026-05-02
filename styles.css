@@ -1,4 +1,6 @@
-/* ---------- TOKENS ---------- */
+html {
+  scroll-behavior: smooth;
+}/* ---------- TOKENS ---------- */
 :root{
   --bg: #07080d;
   --surface: #0f111a;
